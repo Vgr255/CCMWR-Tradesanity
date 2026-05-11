@@ -1,0 +1,36 @@
+Tasks needed:
+
+- Get every item in the game
+- Find every trader and their name
+- Match every trader with an open-cc region (so we can easily filter them)
+- Map every trade to every trader
+- 
+
+The rest will need to be done manually
+
+- Identify which trades are DLC-only
+- Purge unused traders (so we don't lock some item behind an unreachable trader)
+
+
+
+
+### final structure
+
+{
+  "<Human Readable Name>": {
+    "location": {
+      "shop": "<internalName>",
+      "area": "<areaName>"
+    },
+    "region": {
+      "open": "<logical region>"
+    },
+    "condition": [ "<access conditions>" ],
+    "trades": {
+      "<Human Readable Trade Name>": {
+        "item": "<Archipelago Item Name>",
+        "condition": [ "<access conditions>" ]
+      }
+    }
+  }
+}
