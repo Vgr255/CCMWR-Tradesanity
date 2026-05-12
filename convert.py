@@ -90,25 +90,55 @@ class Item:
         return [TRADERS[x] for x in self._traders]
 
 class Trade:
-    def __init__(self, d: dict, i: int):
+    def __init__(self, d: dict, i: int, t: int):
         if len(d["get"]) != 1:
             raise AttributeError
         self.result = ITEMS[int(d["get"][0]["id"])]
         self.amount = d["get"][0]["amount"]
         self.index = i
+        self.trader_index = t
         self.cost = []
         for s in d["require"]:
             self.cost.append( ( ITEMS[int(s["id"])].name, s["amount"] ) )
 
     def to_json(self):
+        res = self.result.name
+        if self.amount > 1:
+            res = f"{res} x{self.amount}"
         return {
-            f"{self.index}_{self.result.name} x{self.amount}":
+            res:
             {
                 "item": self.result.name,
                 "condition": self.cost,
                 "location": {"index": self.index}
             }
         }
+
+class Trader2:
+    def __init__(self, name: str):
+        self.name = name
+        self.internal_names: list[str] = []
+        self.trades: list[list[Trade]] = []
+        self.upgrade_chain: list[str] = []
+        self.tracking: list[bool] = []
+        self.conditions: list[None | tuple[str, str]] = []
+
+    def add_trader(self, d: dict, internal: str):
+        self.internal_names.append(internal)
+        self.upgrade_chain.append(d.get("upgradeTo"))
+        self.tracking.append(d.get("noTrack", False))
+        index = len(self.internal_names) - 1
+        trades = []
+        for i, t in enumerate(d["options"]):
+            try:
+                trades.append(Trade(t, i, index))
+            except AttributeError:
+                pass
+
+        self.trades.append(trades)
+
+    def to_json(self):
+        """Validate the data and export to JSON."""
 
 class Trader:
     def __init__(self, d: dict, internal: str):
