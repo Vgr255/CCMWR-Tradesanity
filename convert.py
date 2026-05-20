@@ -15,6 +15,19 @@ BANNED = [
     "defaultBuffsWrapRolls",
     "defaultMetal",
     "defaultDefault",
+    "bergenLoot2",
+    "bergenMetal", # this one is the pre-New Metals quest
+    "sapphireBuffs3", # some additional ridge traders planned but never used?
+    "sapphireBuffs4", # they all have different consumables to sell, too
+    "sapphireBuffs5", # shame, really.
+    "bakiMetal",
+    "bakiBrewing_1",
+    "bakiBrewingAuto",
+    "basinBuffs3",
+]
+
+ONLY_DLC_OFF = [
+    "bakiBrewing_2",
 ]
 
 AREAS: dict[str, str] = {}
@@ -175,6 +188,10 @@ class Trader:
                 key += "_"
             trades[key] = values
         meta = {}
+        if self.is_dlc:
+            meta["dlc"] = True
+        if self.internal in ONLY_DLC_OFF:
+            meta["dlc"] = False
         return {
             self.internal:
             {
@@ -186,7 +203,7 @@ class Trader:
                     "open": REGIONS_MAP.get(self.area, self.area),
                 },
                 "condition": [], # this will likely need manual intervention
-                "metadata": {"dlc": self.is_dlc},
+                "metadata": meta,
                 "trades": trades,
             }
         }
