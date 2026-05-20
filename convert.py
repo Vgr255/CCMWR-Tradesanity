@@ -170,7 +170,10 @@ class Trader:
         """Return a two-tuple to fit into a bigger dict."""
         trades = {}
         for trade in self.trades:
-            trades.update(trade.to_json())
+            key, values = trade.to_json().popitem()
+            while key in trades:
+                key += "_"
+            trades[key] = values
         meta = {}
         return {
             self.internal:
