@@ -7,6 +7,14 @@ import json
 BANNED = [
     "vermillionWeapon1_old",
     "testing",
+    "defaultHeal",
+    "defaultRegen",
+    "defaultBuffsSingle",
+    "defaultBuffsDouble",
+    "defaultBuffsAllround",
+    "defaultBuffsWrapRolls",
+    "defaultMetal",
+    "defaultDefault",
 ]
 
 AREAS: dict[str, str] = {}
