@@ -12,6 +12,35 @@ The rest will need to be done manually
 - Purge unused traders (so we don't lock some item behind an unreachable trader)
 
 
+conditions:
+
+rookie-harbor.inner-north-trade-ground[2] // Access to Gaia
+
+rookie-harbor.north traderMetalRise[2] // quest.rftc-3-metalstuff.solved && Post-Para Island plot (so anytime)
+rookie-harbor.north traderHeal[1] // dungeons.heat.beaten
+rookie-harbor.north traderBuff1[1] // dungeons.heat.beaten
+rookie-harbor.north traderBuff2[1] // dungeons.tree.beaten
+rookie-harbor.north traderBuff3[1] // dungeons.tree.beaten
+rookie-harbor.north traderBuff4[1] // dungeons.tree.beaten
+
+rookie-harbor.center Trader_Buffs_1[1] // plot.line >= 3300 Reach Apollo 1
+rookie-harbor.center Trader_Buffs_1[2] // dungeons.tree.beaten
+rookie-harbor.center Trader_Buffs_2[1] // dungeons.heat.beaten
+rookie-harbor.center Trader_Buffs_3[1] // plot.line >= 3300 Reach Apollo 1
+rookie-harbor.center Trader_Buffs_3[2] // dungeons.heat.beaten
+rookie-harbor.center Trader_Buffs_4[1] // plot.line >= 3300 Reach Apollo 1
+rookie-harbor.center Trader_Buffs_4[2] // dungeons.heat.beaten
+rookie-harbor.center Trader_Heal[1] // dungeons.heat.beaten
+rookie-harbor.center Trader_Heal[2] // dungeons.tree.beaten
+
+jungle-city.center traderBuffs3[1] // dungeons.tree.beaten
+jungle-city.center traderLoot3[1] // dungeons.wave.beaten
+jungle-city.center traderLoot4[1] // dungeons.shock.beaten
+
+rhombus-sqr.interior.items-f1 traderLootDlc[0] // plot.line >= 40000 Start DLC
+rhombus-sqr.interior.items-f1 traderLootDlc[1] // plot.line >= 44700 Finish Beach
+rhombus-sqr.interior.items-f1 traderSpiceSet3[0] // plot.line >= 40000 Finish Beach
+
 
 
 ### final structure
