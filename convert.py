@@ -90,13 +90,12 @@ class Item:
         return [TRADERS[x] for x in self._traders]
 
 class Trade:
-    def __init__(self, d: dict, i: int, t: int):
+    def __init__(self, d: dict, i: int):
         if len(d["get"]) != 1:
             raise AttributeError
         self.result = ITEMS[int(d["get"][0]["id"])]
         self.amount = d["get"][0]["amount"]
         self.index = i
-        self.trader_index = t
         self.cost = []
         for s in d["require"]:
             self.cost.append( ( ITEMS[int(s["id"])].name, s["amount"] ) )
