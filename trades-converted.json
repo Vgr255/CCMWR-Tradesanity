@@ -8,9 +8,7 @@
             "open": "open18"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chef Sandwich": {
                 "reward": [
@@ -67,9 +65,7 @@
             "open": "open18"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Flaming Bun": {
                 "reward": [
@@ -146,9 +142,7 @@
             "open": "open18"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Hunter's Bolt": {
                 "reward": [
@@ -217,9 +211,7 @@
             "open": "open18"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Petal Cloak": {
                 "reward": [
@@ -288,9 +280,7 @@
             "open": "open18"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Red Bandana": {
                 "reward": [
@@ -359,9 +349,7 @@
             "open": "open18"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Shinkickers": {
                 "reward": [
@@ -430,9 +418,7 @@
             "open": "open18"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Set": {
                 "reward": [
@@ -557,9 +543,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Spicy Bun x2": {
                 "reward": [
@@ -636,9 +620,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Civilian Trigger": {
                 "reward": [
@@ -691,9 +673,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Metal Needles": {
                 "reward": [
@@ -766,9 +746,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Set": {
                 "reward": [
@@ -861,9 +839,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Battered Fist": {
                 "reward": [
@@ -932,9 +908,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Rock Beak": {
                 "reward": [
@@ -1039,9 +1013,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Junk Metal": {
                 "reward": [
@@ -1098,9 +1070,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Set": {
                 "reward": [
@@ -1173,9 +1143,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chef Sandwich": {
                 "reward": [
@@ -1232,9 +1200,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Flaming Bun": {
                 "reward": [
@@ -1311,9 +1277,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chef Sandwich": {
                 "reward": [
@@ -1370,9 +1334,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Flaming Bun": {
                 "reward": [
@@ -1449,9 +1411,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Climbing Pick": {
                 "reward": [
@@ -1576,9 +1536,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Edgy Headphones": {
                 "reward": [
@@ -1675,9 +1633,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Spiky Jacket": {
                 "reward": [
@@ -1774,9 +1730,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Feline Paws": {
                 "reward": [
@@ -1845,9 +1799,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Rock Beak": {
                 "reward": [
@@ -1963,196 +1915,6 @@
                 ],
                 "location": {
                     "index": 4
-                }
-            }
-        }
-    },
-    "bergenLoot2": {
-        "location": {
-            "trader": "Bergen Mine Loot \\c[1]UNUSED\\c[0]",
-            "area": "Bergen Village"
-        },
-        "region": {
-            "open": "open3"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Rock Beak": {
-                "reward": [
-                    "item",
-                    "Rock Beak",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fluffy Fur",
-                        2
-                    ],
-                    [
-                        "Feather Leaf",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Solid Bubble": {
-                "reward": [
-                    "item",
-                    "Solid Bubble",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fluffy Fur",
-                        2
-                    ],
-                    [
-                        "Pike Wood",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Diabolic Horns": {
-                "reward": [
-                    "item",
-                    "Diabolic Horns",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Rock Beak",
-                        1
-                    ],
-                    [
-                        "Solid Bubble",
-                        1
-                    ],
-                    [
-                        "Purple Ore Lump",
-                        2
-                    ],
-                    [
-                        "Rusty Bits",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            },
-            "Frosted Carrot": {
-                "reward": [
-                    "item",
-                    "Frosted Carrot",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Diabolic Horns",
-                        2
-                    ],
-                    [
-                        "Frozen Tear",
-                        1
-                    ],
-                    [
-                        "Winter Thorn",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 3
-                }
-            },
-            "Perforated Tophat": {
-                "reward": [
-                    "item",
-                    "Perforated Tophat",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Frosted Carrot",
-                        2
-                    ],
-                    [
-                        "Bug Shell",
-                        3
-                    ],
-                    [
-                        "Blue Orb",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 4
-                }
-            }
-        }
-    },
-    "bergenMetal": {
-        "location": {
-            "trader": "Bergen Metals",
-            "area": "Bergen Village"
-        },
-        "region": {
-            "open": "open3"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": false
-        },
-        "trades": {
-            "Junk Metal": {
-                "reward": [
-                    "item",
-                    "Junk Metal",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Feather Leaf",
-                        2
-                    ],
-                    [
-                        "Pike Wood",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Refined Metal": {
-                "reward": [
-                    "item",
-                    "Refined Metal",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Junk Metal",
-                        2
-                    ],
-                    [
-                        "Rusty Bits",
-                        2
-                    ],
-                    [
-                        "Purple Ore Lump",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 1
                 }
             }
         }
@@ -2166,9 +1928,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Junk Metal": {
                 "reward": [
@@ -2249,9 +2009,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Set": {
                 "reward": [
@@ -2324,9 +2082,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Spiral Gem": {
                 "reward": [
@@ -2367,9 +2123,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Proper Tophat": {
                 "reward": [
@@ -2406,9 +2160,7 @@
             "open": "open3"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Miner's Helmet": {
                 "reward": [
@@ -2449,9 +2201,7 @@
             "open": "open16"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chef Sandwich": {
                 "reward": [
@@ -2532,9 +2282,7 @@
             "open": "open16"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Sweet Berry Tea": {
                 "reward": [
@@ -2595,9 +2343,7 @@
             "open": "open16"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Tofu Cracker": {
                 "reward": [
@@ -2682,9 +2428,7 @@
             "open": "open16"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Flaming Bun": {
                 "reward": [
@@ -2760,199 +2504,6 @@
             }
         }
     },
-    "sapphireBuffs3": {
-        "location": {
-            "trader": "Sapphire Mixed Buffs",
-            "area": "Sapphire Ridge"
-        },
-        "region": {
-            "open": "open16"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Chili Con Carne": {
-                "reward": [
-                    "item",
-                    "Chili Con Carne",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        1
-                    ],
-                    [
-                        "Fruit Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Chili Dog": {
-                "reward": [
-                    "item",
-                    "Chili Dog",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        2
-                    ],
-                    [
-                        "Fruit Set",
-                        2
-                    ],
-                    [
-                        "Spice Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Salty Ice Cream": {
-                "reward": [
-                    "item",
-                    "Salty Ice Cream",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        1
-                    ],
-                    [
-                        "Fruit Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            },
-            "Ginger Tom. Salad": {
-                "reward": [
-                    "item",
-                    "Ginger Tom. Salad",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        2
-                    ],
-                    [
-                        "Fruit Set",
-                        2
-                    ],
-                    [
-                        "Spice Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 3
-                }
-            }
-        }
-    },
-    "sapphireBuffs4": {
-        "location": {
-            "trader": "Sapphire Allround Buffs",
-            "area": "Sapphire Ridge"
-        },
-        "region": {
-            "open": "open16"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Cold Platter": {
-                "reward": [
-                    "item",
-                    "Cold Platter",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fruit Set",
-                        3
-                    ],
-                    [
-                        "Veggie Set",
-                        3
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            }
-        }
-    },
-    "sapphireBuffs5": {
-        "location": {
-            "trader": "Sapphire Wraps & Rolls",
-            "area": "Sapphire Ridge"
-        },
-        "region": {
-            "open": "open16"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Wrap Roll": {
-                "reward": [
-                    "item",
-                    "Wrap Roll",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fruit Set",
-                        3
-                    ],
-                    [
-                        "Spice Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Shrimp Risotto": {
-                "reward": [
-                    "item",
-                    "Shrimp Risotto",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        3
-                    ],
-                    [
-                        "Spice Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            }
-        }
-    },
     "sapphireWeapon1": {
         "location": {
             "trader": "Sapphire Weapons",
@@ -2962,9 +2513,7 @@
             "open": "open16"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Survivor's Blade": {
                 "reward": [
@@ -3089,9 +2638,7 @@
             "open": "open16"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Hardhead Hat": {
                 "reward": [
@@ -3160,9 +2707,7 @@
             "open": "open16"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Shadowy Cloak": {
                 "reward": [
@@ -3231,9 +2776,7 @@
             "open": "open16"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Bamboots": {
                 "reward": [
@@ -3302,9 +2845,7 @@
             "open": "open16"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Junk Metal": {
                 "reward": [
@@ -3421,9 +2962,7 @@
             "open": "open16"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Set": {
                 "reward": [
@@ -3496,9 +3035,7 @@
             "open": "open16"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Samurai Shell": {
                 "reward": [
@@ -3615,9 +3152,7 @@
             "open": "open16"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Old Geta": {
                 "reward": [
@@ -3658,9 +3193,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chef Sandwich": {
                 "reward": [
@@ -3717,9 +3250,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Flaming Bun": {
                 "reward": [
@@ -3796,9 +3327,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Rapier Carrot": {
                 "reward": [
@@ -3923,9 +3452,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Dry Fin": {
                 "reward": [
@@ -4038,9 +3565,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Junk Metal": {
                 "reward": [
@@ -4105,9 +3630,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Set": {
                 "reward": [
@@ -4184,9 +3707,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Prickly Bracer": {
                 "reward": [
@@ -4270,9 +3791,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chef Sandwich": {
                 "reward": [
@@ -4329,9 +3848,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Flaming Bun": {
                 "reward": [
@@ -4408,9 +3925,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Rapier Carrot": {
                 "reward": [
@@ -4535,9 +4050,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Hidden Blade": {
                 "reward": [
@@ -4662,9 +4175,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Nomadic Turban": {
                 "reward": [
@@ -4761,9 +4272,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Assassin Garb": {
                 "reward": [
@@ -4860,9 +4369,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Curly Slippers": {
                 "reward": [
@@ -4959,9 +4466,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Dry Fin": {
                 "reward": [
@@ -5074,9 +4579,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Butter Silk": {
                 "reward": [
@@ -5188,73 +4691,6 @@
             }
         }
     },
-    "bakiMetal": {
-        "location": {
-            "trader": "Ba'kii Kum Metal",
-            "area": "Ba'kii Kum"
-        },
-        "region": {
-            "open": "open5"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": false
-        },
-        "trades": {
-            "Junk Metal": {
-                "reward": [
-                    "item",
-                    "Junk Metal",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Tough Sand",
-                        2
-                    ],
-                    [
-                        "Old Bones",
-                        1
-                    ],
-                    [
-                        "Vivid Water",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Refined Metal": {
-                "reward": [
-                    "item",
-                    "Refined Metal",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Junk Metal",
-                        2
-                    ],
-                    [
-                        "Arid Lumber",
-                        2
-                    ],
-                    [
-                        "Glaring Rock",
-                        1
-                    ],
-                    [
-                        "Helix Relic",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            }
-        }
-    },
     "bakiMetal2": {
         "location": {
             "trader": "Ba'kii Kum Metal",
@@ -5264,9 +4700,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Junk Metal": {
                 "reward": [
@@ -5379,9 +4813,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Set": {
                 "reward": [
@@ -5478,9 +4910,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Vanilla Ice Cream": {
                 "reward": [
@@ -5541,9 +4971,7 @@
             "open": "open5"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Giga Spiral Drill": {
                 "reward": [
@@ -5571,77 +4999,6 @@
                 ],
                 "location": {
                     "index": 0
-                }
-            }
-        }
-    },
-    "bakiBrewing_1": {
-        "location": {
-            "trader": "Brewing",
-            "area": "Ba'kii Kum"
-        },
-        "region": {
-            "open": "open5"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": false
-        },
-        "trades": {
-            "Brewing Kit: Bear": {
-                "reward": [
-                    "item",
-                    "Brewing Kit: Bear",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Vivid Water",
-                        7
-                    ],
-                    [
-                        "Season Apples",
-                        5
-                    ],
-                    [
-                        "Cactone Fruit",
-                        4
-                    ],
-                    [
-                        "Bear Cicada",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Brewing Kit: Whale": {
-                "reward": [
-                    "item",
-                    "Brewing Kit: Whale",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Crystal Leek",
-                        7
-                    ],
-                    [
-                        "Twilight Dew",
-                        5
-                    ],
-                    [
-                        "Palmapple Seed",
-                        4
-                    ],
-                    [
-                        "Crimson Dragonfly",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 1
                 }
             }
         }
@@ -5924,9 +5281,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chef Sandwich": {
                 "reward": [
@@ -6007,9 +5362,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Tofu Cracker": {
                 "reward": [
@@ -6094,9 +5447,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Flaming Bun": {
                 "reward": [
@@ -6172,61 +5523,6 @@
             }
         }
     },
-    "basinBuffs3": {
-        "location": {
-            "trader": "Basin Mixed Buffs",
-            "area": "Basin Keep"
-        },
-        "region": {
-            "open": "open10"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": false
-        },
-        "trades": {
-            "Chili Con Carne": {
-                "reward": [
-                    "item",
-                    "Chili Con Carne",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        1
-                    ],
-                    [
-                        "Fruit Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Salty Ice Cream": {
-                "reward": [
-                    "item",
-                    "Salty Ice Cream",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        1
-                    ],
-                    [
-                        "Fruit Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            }
-        }
-    },
     "basinBuffs3Ext": {
         "location": {
             "trader": "Basin Mixed Buffs",
@@ -6236,9 +5532,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chili Con Carne": {
                 "reward": [
@@ -6339,9 +5633,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Cold Platter": {
                 "reward": [
@@ -6374,9 +5666,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Wrap Roll": {
                 "reward": [
@@ -6429,9 +5719,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Aehre": {
                 "reward": [
@@ -6548,9 +5836,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Electrician's Cap": {
                 "reward": [
@@ -6643,9 +5929,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Loose Trenchcoat": {
                 "reward": [
@@ -6738,9 +6022,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Pathfinders": {
                 "reward": [
@@ -6837,9 +6119,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Junk Metal": {
                 "reward": [
@@ -6956,9 +6236,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Set": {
                 "reward": [
@@ -7055,9 +6333,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Slime Drop": {
                 "reward": [
@@ -7166,9 +6442,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Static Furball": {
                 "reward": [
@@ -7257,9 +6531,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Plain Cube": {
                 "reward": [
@@ -7324,9 +6596,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Metal Down": {
                 "reward": [
@@ -7415,9 +6685,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Hunter's Bolt": {
                 "reward": [
@@ -7530,9 +6798,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Red Bandana": {
                 "reward": [
@@ -7657,9 +6923,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Ginger Tom. Salad": {
                 "reward": [
@@ -7784,9 +7048,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Excalibro": {
                 "reward": [
@@ -7823,9 +7085,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Galaxy Spiral Drill": {
                 "reward": [
@@ -7866,9 +7126,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Golden Revolver": {
                 "reward": [
@@ -7909,9 +7167,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Bandit's Scarf": {
                 "reward": [
@@ -7952,9 +7208,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Bigger Stick": {
                 "reward": [
@@ -8066,9 +7320,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Twitching Slicer": {
                 "reward": [
@@ -8343,9 +7595,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Set": {
                 "reward": [
@@ -8430,9 +7680,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Junk Metal": {
                 "reward": [
@@ -8640,9 +7888,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Elder Wood": {
                 "reward": [
@@ -8703,9 +7949,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Elder Wood": {
                 "reward": [
@@ -8782,9 +8026,7 @@
             "open": "open10"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Elder Wood": {
                 "reward": [
@@ -8861,9 +8103,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Rise Booster": {
                 "reward": [
@@ -8900,9 +8140,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Fall Booster": {
                 "reward": [
@@ -8939,9 +8177,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Trail Booster": {
                 "reward": [
@@ -8982,9 +8218,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Valley Booster": {
                 "reward": [
@@ -9025,9 +8259,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Garden Booster": {
                 "reward": [
@@ -9068,9 +8300,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Ridge Booster": {
                 "reward": [
@@ -9107,9 +8337,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Skirmisher": {
                 "reward": [
@@ -9262,9 +8490,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Serene Bubble": {
                 "reward": [
@@ -9361,9 +8587,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Zealous Lamellar ": {
                 "reward": [
@@ -9460,9 +8684,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Deadly Dancers": {
                 "reward": [
@@ -9559,9 +8781,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Hydra Fang": {
                 "reward": [
@@ -9785,9 +9005,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Artillery Boots": {
                 "reward": [
@@ -9912,9 +9130,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Plate of Chests": {
                 "reward": [
@@ -10011,9 +9227,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Epic Metal": {
                 "reward": [
@@ -10122,9 +9336,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chef Sandwich": {
                 "reward": [
@@ -10205,9 +9417,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Sweet Berry Tea": {
                 "reward": [
@@ -10292,9 +9502,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Flaming Bun": {
                 "reward": [
@@ -10379,9 +9587,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Tofu Cracker": {
                 "reward": [
@@ -10466,9 +9672,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chili Con Carne": {
                 "reward": [
@@ -10569,9 +9773,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Cold Platter": {
                 "reward": [
@@ -10628,9 +9830,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Wrap Roll": {
                 "reward": [
@@ -10731,9 +9931,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Hotsauce": {
                 "reward": [
@@ -11001,9 +10199,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Set": {
                 "reward": [
@@ -11076,9 +10272,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Set": {
                 "reward": [
@@ -11226,9 +10420,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Fruit Set": {
                 "reward": [
@@ -11301,9 +10493,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Fruit Set": {
                 "reward": [
@@ -11443,9 +10633,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Spice Set": {
                 "reward": [
@@ -11558,9 +10746,7 @@
             "open": "open20"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Spice Set": {
                 "reward": [
@@ -13590,9 +12776,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chef Sandwich": {
                 "reward": [
@@ -13625,9 +12809,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chef Sandwich": {
                 "reward": [
@@ -13684,9 +12866,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chef Sandwich": {
                 "reward": [
@@ -13767,9 +12947,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Sweet Berry Tea": {
                 "reward": [
@@ -13806,9 +12984,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Sweet Berry Tea": {
                 "reward": [
@@ -13869,9 +13045,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chili Con Carne": {
                 "reward": [
@@ -13924,9 +13098,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chili Con Carne": {
                 "reward": [
@@ -14027,9 +13199,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Wraps": {
                 "reward": [
@@ -14074,9 +13244,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Wraps": {
                 "reward": [
@@ -14161,9 +13329,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Flaming Bun": {
                 "reward": [
@@ -14208,9 +13374,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Flaming Bun": {
                 "reward": [
@@ -14295,9 +13459,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Mugger's Blade": {
                 "reward": [
@@ -14350,9 +13512,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Daikon": {
                 "reward": [
@@ -14441,9 +13601,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Cooling Veil": {
                 "reward": [
@@ -14496,9 +13654,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Student's Bandana": {
                 "reward": [
@@ -14587,9 +13743,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Bovine Armor": {
                 "reward": [
@@ -14646,9 +13800,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Assault Vest": {
                 "reward": [
@@ -14737,9 +13889,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Rusty Anchors": {
                 "reward": [
@@ -14796,9 +13946,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Bull Stompers": {
                 "reward": [
@@ -14863,9 +14011,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Metal Needles": {
                 "reward": [
@@ -14938,9 +14084,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Set": {
                 "reward": [
@@ -15033,9 +14177,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Steak, rare x2": {
                 "reward": [
@@ -15072,9 +14214,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Steak, rare x2": {
                 "reward": [
@@ -15167,9 +14307,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Veggie Set": {
                 "reward": [
@@ -15242,9 +14380,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chef Sandwich": {
                 "reward": [
@@ -15325,9 +14461,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Flaming Bun": {
                 "reward": [
@@ -15404,9 +14538,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chili Con Carne": {
                 "reward": [
@@ -15459,9 +14591,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Chili Con Carne": {
                 "reward": [
@@ -15562,9 +14692,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Cold Platter": {
                 "reward": [
@@ -15597,9 +14725,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Cold Platter": {
                 "reward": [
@@ -15656,9 +14782,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Wrap Roll": {
                 "reward": [
@@ -15711,9 +14835,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Wrap Roll": {
                 "reward": [
@@ -15814,9 +14936,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Junk Metal": {
                 "reward": [
@@ -15849,9 +14969,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Junk Metal": {
                 "reward": [
@@ -15932,9 +15050,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Junk Metal": {
                 "reward": [
@@ -16015,9 +15131,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Hunter's Bolt": {
                 "reward": [
@@ -16142,9 +15256,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Junk Metal": {
                 "reward": [
@@ -16177,9 +15289,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Junk Metal": {
                 "reward": [
@@ -16260,9 +15370,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Red Bandana": {
                 "reward": [
@@ -16387,9 +15495,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Junk Metal": {
                 "reward": [
@@ -16470,9 +15576,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Metal Needles": {
                 "reward": [
@@ -16569,9 +15673,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Raw Meat": {
                 "reward": [
@@ -16656,9 +15758,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Raw Meat": {
                 "reward": [
@@ -16767,9 +15867,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Palmapple Seed": {
                 "reward": [
@@ -16858,9 +15956,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Palmapple Seed": {
                 "reward": [
@@ -16977,9 +16073,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Bear Cicada": {
                 "reward": [
@@ -17040,9 +16134,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Bear Cicada": {
                 "reward": [
@@ -17151,9 +16243,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Prickly Bracer": {
                 "reward": [
@@ -17222,9 +16312,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Prickly Bracer": {
                 "reward": [
@@ -17321,9 +16409,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Prickly Bracer": {
                 "reward": [
@@ -17448,9 +16534,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Tattered Satchel": {
                 "reward": [
@@ -17519,9 +16603,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Tattered Satchel": {
                 "reward": [
@@ -17618,9 +16700,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Core Drill": {
                 "reward": [
@@ -17689,9 +16769,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Creation Gem": {
                 "reward": [
@@ -17732,9 +16810,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Circuit Override": {
                 "reward": [
@@ -17775,9 +16851,7 @@
             "open": "open2"
         },
         "condition": [],
-        "metadata": {
-            "dlc": false
-        },
+        "metadata": {},
         "trades": {
             "Circuit Override": {
                 "reward": [
