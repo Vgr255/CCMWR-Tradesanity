@@ -44,6 +44,7 @@ rhombus-sqr.interior.items-f1 traderSpiceSet3[0] // plot.line >= 40000 Finish Be
 
 
 ### final structure
+XXX this is out of date. only needed for initial creation but kept here for posterity
 
 {
   "<Human Readable Name>": {

@@ -4,6 +4,11 @@ from __future__ import annotations
 
 import json
 
+BANNED = [
+    "vermillionWeapon1_old",
+    "testing",
+]
+
 AREAS: dict[str, str] = {}
 ENEMIES: dict[str, str] = {}
 ENEMY_LOCS: dict[str, str] = {}
@@ -107,13 +112,13 @@ class Trade:
         return {
             res:
             {
-                "item": self.result.name,
+                "reward": ["item", self.result.name, self.amount],
                 "condition": self.cost,
                 "location": {"index": self.index}
             }
         }
 
-class Trader2:
+class Trader2: # unused atm
     def __init__(self, name: str):
         self.name = name
         self.internal_names: list[str] = []
@@ -201,7 +206,7 @@ def extract():
 
     for k,v in data["traders"].items():
         tr = Trader(v, k)
-        if tr.trades:
+        if tr.trades and tr.internal not in BANNED:
             TRADERS[k] = tr
 
     final = {}
