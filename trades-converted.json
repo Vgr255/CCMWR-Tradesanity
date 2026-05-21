@@ -3739,49 +3739,6 @@
             }
         }
     },
-    "glitchTrader": {
-        "location": {
-            "trader": "Glitch Trader",
-            "area": "Maroon Valley"
-        },
-        "region": {
-            "open": "open5"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Lunatic Paws UwU": {
-                "reward": [
-                    "item",
-                    "Lunatic Paws UwU",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Lunatic Paws",
-                        1
-                    ],
-                    [
-                        "Ultra Secret Note",
-                        1
-                    ],
-                    [
-                        "Burned Ash",
-                        4
-                    ],
-                    [
-                        "Fox Sake",
-                        7
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            }
-        }
-    },
     "bakiHeal": {
         "location": {
             "trader": "Ba'kii Kum Heals",
@@ -5225,49 +5182,6 @@
                 ],
                 "location": {
                     "index": 3
-                }
-            }
-        }
-    },
-    "bakiBrewingAuto": {
-        "location": {
-            "trader": "Brewing: Auto",
-            "area": "Ba'kii Kum"
-        },
-        "region": {
-            "open": "open5"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Bear Beer x2": {
-                "reward": [
-                    "item",
-                    "Bear Beer",
-                    2
-                ],
-                "condition": [
-                    [
-                        "Season Apples",
-                        6
-                    ],
-                    [
-                        "Bear Cicada",
-                        2
-                    ],
-                    [
-                        "Vivid Water",
-                        4
-                    ],
-                    [
-                        "Cactone Fruit",
-                        5
-                    ]
-                ],
-                "location": {
-                    "index": 0
                 }
             }
         }
@@ -6920,7 +6834,7 @@
             "area": "Basin Keep"
         },
         "region": {
-            "open": "open10"
+            "open": "open11"
         },
         "condition": [],
         "metadata": {},
@@ -7045,7 +6959,7 @@
             "area": "Basin Keep"
         },
         "region": {
-            "open": "open10"
+            "open": "open11"
         },
         "condition": [],
         "metadata": {},
@@ -7082,7 +6996,7 @@
             "area": "Basin Keep"
         },
         "region": {
-            "open": "open10"
+            "open": "open11"
         },
         "condition": [],
         "metadata": {},
@@ -7123,7 +7037,7 @@
             "area": "Basin Keep"
         },
         "region": {
-            "open": "open10"
+            "open": "open11"
         },
         "condition": [],
         "metadata": {},
@@ -7164,7 +7078,7 @@
             "area": "Basin Keep"
         },
         "region": {
-            "open": "open10"
+            "open": "open11"
         },
         "condition": [],
         "metadata": {},
@@ -7205,7 +7119,7 @@
             "area": "Basin Keep"
         },
         "region": {
-            "open": "open10"
+            "open": "open11"
         },
         "condition": [],
         "metadata": {},
@@ -7264,49 +7178,6 @@
                 ],
                 "location": {
                     "index": 1
-                }
-            }
-        }
-    },
-    "papagangQuestTrade": {
-        "location": {
-            "trader": "Nik, the Eggman",
-            "area": "Basin Keep"
-        },
-        "region": {
-            "open": "open10"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Gold Surprise Egg": {
-                "reward": [
-                    "item",
-                    "Gold Surprise Egg",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fruit Set",
-                        8
-                    ],
-                    [
-                        "Star Fruit",
-                        5
-                    ],
-                    [
-                        "Moon Fruit",
-                        5
-                    ],
-                    [
-                        "Power Spinach",
-                        3
-                    ]
-                ],
-                "location": {
-                    "index": 0
                 }
             }
         }
@@ -7380,104 +7251,13 @@
             }
         }
     },
-    "villageFood": {
-        "location": {
-            "trader": "V'rda Vil Food",
-            "area": "Gaia's Garden"
-        },
-        "region": {
-            "open": "open10"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Echo Roll": {
-                "reward": [
-                    "item",
-                    "Echo Roll",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fruit Set",
-                        6
-                    ],
-                    [
-                        "Spice Set",
-                        2
-                    ],
-                    [
-                        "White Grain",
-                        7
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Green Risotto": {
-                "reward": [
-                    "item",
-                    "Green Risotto",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        6
-                    ],
-                    [
-                        "Spice Set",
-                        2
-                    ],
-                    [
-                        "Green Arbor",
-                        7
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Final Dinner": {
-                "reward": [
-                    "item",
-                    "Final Dinner",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Full Course",
-                        2
-                    ],
-                    [
-                        "Spice Set",
-                        5
-                    ],
-                    [
-                        "Marinated Meat",
-                        3
-                    ],
-                    [
-                        "Epic Metal",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            }
-        }
-    },
     "villageMaterials": {
         "location": {
             "trader": "V'rda Vil Trades",
             "area": "Gaia's Garden"
         },
         "region": {
-            "open": "open10"
+            "open": "open10.Right"
         },
         "condition": [],
         "metadata": {
@@ -7592,7 +7372,7 @@
             "area": "Gaia's Garden"
         },
         "region": {
-            "open": "open10"
+            "open": "open10.Right"
         },
         "condition": [],
         "metadata": {},
@@ -7677,7 +7457,7 @@
             "area": "Gaia's Garden"
         },
         "region": {
-            "open": "open10"
+            "open": "open10.Right"
         },
         "condition": [],
         "metadata": {},
@@ -7780,173 +7560,13 @@
             }
         }
     },
-    "villageEquip1": {
-        "location": {
-            "trader": "Nature's Gear",
-            "area": "Gaia's Garden"
-        },
-        "region": {
-            "open": "open10"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Bearserker Claw x2": {
-                "reward": [
-                    "item",
-                    "Bearserker Claw",
-                    2
-                ],
-                "condition": [
-                    [
-                        "Warkeeper",
-                        1
-                    ],
-                    [
-                        "Winterclaw",
-                        1
-                    ],
-                    [
-                        "Rumble Hive",
-                        10
-                    ],
-                    [
-                        "Epic Metal",
-                        7
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Headset TYPE>:3": {
-                "reward": [
-                    "item",
-                    "Headset TYPE>:3",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Dented Crown",
-                        1
-                    ],
-                    [
-                        "Ancient Sandals",
-                        1
-                    ],
-                    [
-                        "Burned Ash",
-                        6
-                    ],
-                    [
-                        "Epic Metal",
-                        4
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Nightfeather Coat": {
-                "reward": [
-                    "item",
-                    "Nightfeather Coat",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Timeworn Belt",
-                        1
-                    ],
-                    [
-                        "Bigger Stick",
-                        1
-                    ],
-                    [
-                        "Barrel Beak",
-                        7
-                    ],
-                    [
-                        "Epic Metal",
-                        4
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            }
-        }
-    },
-    "turretDefTrader": {
-        "location": {
-            "trader": "TurretDefense Trader",
-            "area": "Gaia's Garden"
-        },
-        "region": {
-            "open": "open10"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Elder Wood": {
-                "reward": [
-                    "item",
-                    "Elder Wood",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Turret Tokens",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Cross Sandwich": {
-                "reward": [
-                    "item",
-                    "Cross Sandwich",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Turret Tokens",
-                        15
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Final Dinner": {
-                "reward": [
-                    "item",
-                    "Final Dinner",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Turret Tokens",
-                        30
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            }
-        }
-    },
     "turretDefTraderUpg": {
         "location": {
             "trader": "TurretDefense Trader",
             "area": "Gaia's Garden"
         },
         "region": {
-            "open": "open10"
+            "open": "open10.Grove"
         },
         "condition": [],
         "metadata": {},
@@ -8023,7 +7643,7 @@
             "area": "Gaia's Garden"
         },
         "region": {
-            "open": "open10"
+            "open": "open10.Grove"
         },
         "condition": [],
         "metadata": {},
@@ -8913,85 +8533,6 @@
                 ],
                 "location": {
                     "index": 4
-                }
-            }
-        }
-    },
-    "rhombusEquipAntique2": {
-        "location": {
-            "trader": "Antique+ UNUSED",
-            "area": "Rhombus Square"
-        },
-        "region": {
-            "open": "open20"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Antique Token": {
-                "reward": [
-                    "item",
-                    "Antique Token",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Hydra Fang",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Antique Token_": {
-                "reward": [
-                    "item",
-                    "Antique Token",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Gorgon Veil",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Antique Token__": {
-                "reward": [
-                    "item",
-                    "Antique Token",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Centaur Vest",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            },
-            "Antique Token___": {
-                "reward": [
-                    "item",
-                    "Antique Token",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Unicorn Greaves",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 3
                 }
             }
         }
@@ -10027,165 +9568,6 @@
                 ],
                 "location": {
                     "index": 3
-                }
-            }
-        }
-    },
-    "rhombusBuffsSpecial": {
-        "location": {
-            "trader": "Rhombus Special Buffs",
-            "area": "Rhombus Square"
-        },
-        "region": {
-            "open": "open20"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Flaming Bun": {
-                "reward": [
-                    "item",
-                    "Flaming Bun",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fruit Set",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Blazing Bun": {
-                "reward": [
-                    "item",
-                    "Blazing Bun",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fruit Set",
-                        4
-                    ],
-                    [
-                        "Spice Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Fruit Salad": {
-                "reward": [
-                    "item",
-                    "Fruit Salad",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fruit Set",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            },
-            "Fruit Pie": {
-                "reward": [
-                    "item",
-                    "Fruit Pie",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fruit Set",
-                        4
-                    ],
-                    [
-                        "Spice Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 3
-                }
-            },
-            "Tofu Cracker": {
-                "reward": [
-                    "item",
-                    "Tofu Cracker",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 4
-                }
-            },
-            "Cheese Cracker": {
-                "reward": [
-                    "item",
-                    "Cheese Cracker",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        4
-                    ],
-                    [
-                        "Spice Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 5
-                }
-            },
-            "Veggie Wraps": {
-                "reward": [
-                    "item",
-                    "Veggie Wraps",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 6
-                }
-            },
-            "Veggie Burger": {
-                "reward": [
-                    "item",
-                    "Veggie Burger",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        4
-                    ],
-                    [
-                        "Spice Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 7
                 }
             }
         }
@@ -12041,573 +11423,6 @@
             }
         }
     },
-    "rhombusPostEquipArena1": {
-        "location": {
-            "trader": "Arena Gear #1",
-            "area": "Rhombus Square"
-        },
-        "region": {
-            "open": "open20"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Pendulum Striker+": {
-                "reward": [
-                    "item",
-                    "Pendulum Striker+",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Pendulum Striker",
-                        1
-                    ],
-                    [
-                        "Pendulum Sphere",
-                        1
-                    ],
-                    [
-                        "Focus Shard",
-                        7
-                    ],
-                    [
-                        "Epic Metal",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Knocking One+": {
-                "reward": [
-                    "item",
-                    "Knocking One+",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Knocking One",
-                        1
-                    ],
-                    [
-                        "Knocking Sphere",
-                        1
-                    ],
-                    [
-                        "Focus Shard",
-                        7
-                    ],
-                    [
-                        "Epic Metal",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Eternal Salami+": {
-                "reward": [
-                    "item",
-                    "Eternal Salami+",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Eternal Salami",
-                        1
-                    ],
-                    [
-                        "Salami Sphere",
-                        1
-                    ],
-                    [
-                        "Focus Shard",
-                        7
-                    ],
-                    [
-                        "Epic Metal",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            },
-            "Dragon's Bandana+": {
-                "reward": [
-                    "item",
-                    "Dragon's Bandana+",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Dragon's Bandana",
-                        1
-                    ],
-                    [
-                        "Dragon Sphere",
-                        1
-                    ],
-                    [
-                        "Focus Shard",
-                        7
-                    ],
-                    [
-                        "Epic Metal",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 3
-                }
-            },
-            "Tranquil Earmuffs+": {
-                "reward": [
-                    "item",
-                    "Tranquil Earmuffs+",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Tranquil Earmuffs",
-                        1
-                    ],
-                    [
-                        "Tranquility Sphere",
-                        1
-                    ],
-                    [
-                        "Focus Shard",
-                        7
-                    ],
-                    [
-                        "Epic Metal",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 4
-                }
-            }
-        }
-    },
-    "rhombusPostEquipArena2": {
-        "location": {
-            "trader": "Arena Gear #2",
-            "area": "Rhombus Square"
-        },
-        "region": {
-            "open": "open20"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Killing Dress+": {
-                "reward": [
-                    "item",
-                    "Killing Dress+",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Killing Dress",
-                        1
-                    ],
-                    [
-                        "Killing Sphere",
-                        1
-                    ],
-                    [
-                        "Focus Shard",
-                        7
-                    ],
-                    [
-                        "Epic Metal",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Assault Harness+": {
-                "reward": [
-                    "item",
-                    "Assault Harness+",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Assault Harness",
-                        1
-                    ],
-                    [
-                        "Assault Sphere",
-                        1
-                    ],
-                    [
-                        "Focus Shard",
-                        7
-                    ],
-                    [
-                        "Epic Metal",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Paedalos+": {
-                "reward": [
-                    "item",
-                    "Paedalos+",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Paedalos",
-                        1
-                    ],
-                    [
-                        "Roller Sphere",
-                        1
-                    ],
-                    [
-                        "Focus Shard",
-                        7
-                    ],
-                    [
-                        "Epic Metal",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            },
-            "Combat Skates+": {
-                "reward": [
-                    "item",
-                    "Combat Skates+",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Combat Skates",
-                        1
-                    ],
-                    [
-                        "Skate Sphere",
-                        1
-                    ],
-                    [
-                        "Focus Shard",
-                        7
-                    ],
-                    [
-                        "Epic Metal",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 3
-                }
-            }
-        }
-    },
-    "tremorTrader1": {
-        "location": {
-            "trader": "Tremoire",
-            "area": "Rhombus Square"
-        },
-        "region": {
-            "open": "open20"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Twitching Slicer": {
-                "reward": [
-                    "item",
-                    "Twitching Slicer",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Humming Razor",
-                        1
-                    ],
-                    [
-                        "Tremor Engine",
-                        1
-                    ],
-                    [
-                        "Static Furball",
-                        4
-                    ],
-                    [
-                        "Precious Metal",
-                        3
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Shuddering Cleaver": {
-                "reward": [
-                    "item",
-                    "Shuddering Cleaver",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Twitching Slicer",
-                        1
-                    ],
-                    [
-                        "Sharp Splitter",
-                        4
-                    ],
-                    [
-                        "Living Bolt",
-                        3
-                    ],
-                    [
-                        "Tremor Engine",
-                        3
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            }
-        }
-    },
-    "tremorTrader2": {
-        "location": {
-            "trader": "Tremoire",
-            "area": "Rhombus Square"
-        },
-        "region": {
-            "open": "open20"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Twitching Slicer": {
-                "reward": [
-                    "item",
-                    "Twitching Slicer",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Humming Razor",
-                        1
-                    ],
-                    [
-                        "Tremor Engine",
-                        1
-                    ],
-                    [
-                        "Static Furball",
-                        4
-                    ],
-                    [
-                        "Precious Metal",
-                        3
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Shuddering Cleaver": {
-                "reward": [
-                    "item",
-                    "Shuddering Cleaver",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Twitching Slicer",
-                        1
-                    ],
-                    [
-                        "Sharp Splitter",
-                        4
-                    ],
-                    [
-                        "Living Bolt",
-                        3
-                    ],
-                    [
-                        "Tremor Engine",
-                        3
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Tremor Mirage": {
-                "reward": [
-                    "item",
-                    "Tremor Mirage",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Thrashing Ripper",
-                        1
-                    ],
-                    [
-                        "Cone Seed",
-                        15
-                    ],
-                    [
-                        "Rumble Hive",
-                        4
-                    ],
-                    [
-                        "Epic Metal",
-                        3
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            },
-            "Nanopoint Needle": {
-                "reward": [
-                    "item",
-                    "Nanopoint Needle",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Sonic Spike",
-                        1
-                    ],
-                    [
-                        "Yellow Sponge",
-                        11
-                    ],
-                    [
-                        "Strange Shard",
-                        17
-                    ],
-                    [
-                        "Amethyst",
-                        13
-                    ]
-                ],
-                "location": {
-                    "index": 3
-                }
-            }
-        }
-    },
-    "rhombusDlcLoot1": {
-        "location": {
-            "trader": "Ancient Loot",
-            "area": "Rhombus Square"
-        },
-        "region": {
-            "open": "open20"
-        },
-        "condition": [],
-        "metadata": {
-            "dlc": true
-        },
-        "trades": {
-            "Ember Sack": {
-                "reward": [
-                    "item",
-                    "Ember Sack",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Core Stone",
-                        3
-                    ],
-                    [
-                        "Coral Piece",
-                        4
-                    ],
-                    [
-                        "Mellow Water",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Worm Band": {
-                "reward": [
-                    "item",
-                    "Worm Band",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Core Stone",
-                        4
-                    ],
-                    [
-                        "Coral Piece",
-                        5
-                    ],
-                    [
-                        "Yellow Sponge",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Razor Tip": {
-                "reward": [
-                    "item",
-                    "Razor Tip",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Core Stone",
-                        4
-                    ],
-                    [
-                        "Coral Piece",
-                        5
-                    ],
-                    [
-                        "Shell Nut",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            }
-        }
-    },
     "rhombusDlcLoot2": {
         "location": {
             "trader": "Ancient Loot",
@@ -12767,96 +11582,6 @@
             }
         }
     },
-    "rookieHeal": {
-        "location": {
-            "trader": "Rookie Sandwiches",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Chef Sandwich": {
-                "reward": [
-                    "item",
-                    "Chef Sandwich",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        2
-                    ],
-                    [
-                        "Fruit Set",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            }
-        }
-    },
-    "rookieHeal2": {
-        "location": {
-            "trader": "Rookie Sandwiches",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Chef Sandwich": {
-                "reward": [
-                    "item",
-                    "Chef Sandwich",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        2
-                    ],
-                    [
-                        "Fruit Set",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Mega-Sandwich": {
-                "reward": [
-                    "item",
-                    "Mega-Sandwich",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        4
-                    ],
-                    [
-                        "Fruit Set",
-                        4
-                    ],
-                    [
-                        "Spice Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            }
-        }
-    },
     "rookieHeal3": {
         "location": {
             "trader": "Rookie Sandwiches",
@@ -12938,43 +11663,6 @@
             }
         }
     },
-    "rookieBuffs1": {
-        "location": {
-            "trader": "Rookie Tea",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Sweet Berry Tea": {
-                "reward": [
-                    "item",
-                    "Sweet Berry Tea",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        1
-                    ],
-                    [
-                        "Fruit Set",
-                        1
-                    ],
-                    [
-                        "Spice Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            }
-        }
-    },
     "rookieBuffs1Ext": {
         "location": {
             "trader": "Rookie Tea",
@@ -13028,59 +11716,6 @@
                     [
                         "Spice Set",
                         3
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            }
-        }
-    },
-    "rookieBuffs2": {
-        "location": {
-            "trader": "Rookie Mixed Buffs",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Chili Con Carne": {
-                "reward": [
-                    "item",
-                    "Chili Con Carne",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        1
-                    ],
-                    [
-                        "Fruit Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Salty Ice Cream": {
-                "reward": [
-                    "item",
-                    "Salty Ice Cream",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        1
-                    ],
-                    [
-                        "Fruit Set",
-                        1
                     ]
                 ],
                 "location": {
@@ -13190,51 +11825,6 @@
             }
         }
     },
-    "rookieBuffs3": {
-        "location": {
-            "trader": "Rookina Buffs",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Veggie Wraps": {
-                "reward": [
-                    "item",
-                    "Veggie Wraps",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Tofu Cracker": {
-                "reward": [
-                    "item",
-                    "Tofu Cracker",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            }
-        }
-    },
     "rookieBuffs3Ext": {
         "location": {
             "trader": "Rookina Buffs",
@@ -13316,51 +11906,6 @@
                 ],
                 "location": {
                     "index": 3
-                }
-            }
-        }
-    },
-    "rookieBuffs4": {
-        "location": {
-            "trader": "Buffies Buffs",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Flaming Bun": {
-                "reward": [
-                    "item",
-                    "Flaming Bun",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fruit Set",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Fruit Salad": {
-                "reward": [
-                    "item",
-                    "Fruit Salad",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fruit Set",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 1
                 }
             }
         }
@@ -14168,143 +12713,13 @@
             }
         }
     },
-    "rookieSteaks1": {
-        "location": {
-            "trader": "Ms. Teak's Steaks",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Steak, rare x2": {
-                "reward": [
-                    "item",
-                    "Steak, rare",
-                    2
-                ],
-                "condition": [
-                    [
-                        "Raw Meat",
-                        1
-                    ],
-                    [
-                        "Winter Thorn",
-                        1
-                    ],
-                    [
-                        "Arid Lumber",
-                        4
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            }
-        }
-    },
-    "rookieSteaks2": {
-        "location": {
-            "trader": "Ms. Teak's Steaks",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Steak, rare x2": {
-                "reward": [
-                    "item",
-                    "Steak, rare",
-                    2
-                ],
-                "condition": [
-                    [
-                        "Raw Meat",
-                        1
-                    ],
-                    [
-                        "Winter Thorn",
-                        1
-                    ],
-                    [
-                        "Arid Lumber",
-                        4
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Marinated Meat": {
-                "reward": [
-                    "item",
-                    "Marinated Meat",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Raw Meat",
-                        1
-                    ],
-                    [
-                        "Royal Hive",
-                        1
-                    ],
-                    [
-                        "Ripe Apples",
-                        3
-                    ],
-                    [
-                        "Spice Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Gourmet Steak x2": {
-                "reward": [
-                    "item",
-                    "Gourmet Steak",
-                    2
-                ],
-                "condition": [
-                    [
-                        "Marinated Meat",
-                        1
-                    ],
-                    [
-                        "Winter Thorn",
-                        1
-                    ],
-                    [
-                        "Elder Wood",
-                        1
-                    ],
-                    [
-                        "Arid Lumber",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            }
-        }
-    },
     "rookieSetsFall": {
         "location": {
             "trader": "Rookie Fall Sets",
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -14377,7 +12792,7 @@
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -14458,7 +12873,7 @@
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -14529,66 +12944,13 @@
             }
         }
     },
-    "rookieNorthBuffs2": {
-        "location": {
-            "trader": "Rookie Mixed Buffs",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Chili Con Carne": {
-                "reward": [
-                    "item",
-                    "Chili Con Carne",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        1
-                    ],
-                    [
-                        "Fruit Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Salty Ice Cream": {
-                "reward": [
-                    "item",
-                    "Salty Ice Cream",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        1
-                    ],
-                    [
-                        "Fruit Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            }
-        }
-    },
     "rookieNorthBuffs2Ext": {
         "location": {
             "trader": "Rookie Mixed Buffs",
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -14683,46 +13045,13 @@
             }
         }
     },
-    "rookieNorthBuffs3": {
-        "location": {
-            "trader": "Rookie Allround Buffs",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Cold Platter": {
-                "reward": [
-                    "item",
-                    "Cold Platter",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fruit Set",
-                        3
-                    ],
-                    [
-                        "Veggie Set",
-                        3
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            }
-        }
-    },
     "rookieNorthBuffs3Ext": {
         "location": {
             "trader": "Rookie Allround Buffs",
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -14773,66 +13102,13 @@
             }
         }
     },
-    "rookieNorthBuffs4": {
-        "location": {
-            "trader": "Rookie Wraps & Rolls",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Wrap Roll": {
-                "reward": [
-                    "item",
-                    "Wrap Roll",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Fruit Set",
-                        3
-                    ],
-                    [
-                        "Spice Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Shrimp Risotto": {
-                "reward": [
-                    "item",
-                    "Shrimp Risotto",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        3
-                    ],
-                    [
-                        "Spice Set",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            }
-        }
-    },
     "rookieNorthBuffs4Ext": {
         "location": {
             "trader": "Rookie Wraps & Rolls",
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -14927,127 +13203,13 @@
             }
         }
     },
-    "rookieRiseMetal1": {
-        "location": {
-            "trader": "Rookie Rise Metal",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Junk Metal": {
-                "reward": [
-                    "item",
-                    "Junk Metal",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Autumn Leaves",
-                        2
-                    ],
-                    [
-                        "Gold Beetle",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            }
-        }
-    },
-    "rookieRiseMetal2": {
-        "location": {
-            "trader": "Rookie Rise Metal",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Junk Metal": {
-                "reward": [
-                    "item",
-                    "Junk Metal",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Autumn Leaves",
-                        2
-                    ],
-                    [
-                        "Gold Beetle",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Refined Metal": {
-                "reward": [
-                    "item",
-                    "Refined Metal",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Junk Metal",
-                        2
-                    ],
-                    [
-                        "Season Apples",
-                        2
-                    ],
-                    [
-                        "Twilight Dew",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Precious Metal": {
-                "reward": [
-                    "item",
-                    "Precious Metal",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Refined Metal",
-                        2
-                    ],
-                    [
-                        "Bear Cicada",
-                        2
-                    ],
-                    [
-                        "Azure Dragonfly",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            }
-        }
-    },
     "rookieRiseMetal3": {
         "location": {
             "trader": "Rookie Rise Metal",
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -15128,7 +13290,7 @@
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -15247,127 +13409,13 @@
             }
         }
     },
-    "rookieFallMetal1": {
-        "location": {
-            "trader": "Rookie Fall Metal",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Junk Metal": {
-                "reward": [
-                    "item",
-                    "Junk Metal",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Parched Leaves",
-                        2
-                    ],
-                    [
-                        "White Grain",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            }
-        }
-    },
-    "rookieFallMetal2": {
-        "location": {
-            "trader": "Rookie Fall Metal",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Junk Metal": {
-                "reward": [
-                    "item",
-                    "Junk Metal",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Parched Leaves",
-                        2
-                    ],
-                    [
-                        "White Grain",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Refined Metal": {
-                "reward": [
-                    "item",
-                    "Refined Metal",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Junk Metal",
-                        2
-                    ],
-                    [
-                        "Ripe Apples",
-                        2
-                    ],
-                    [
-                        "Sunset Dew",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Precious Metal": {
-                "reward": [
-                    "item",
-                    "Precious Metal",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Refined Metal",
-                        2
-                    ],
-                    [
-                        "Wolf Cicada",
-                        2
-                    ],
-                    [
-                        "Crimson Dragonfly",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            }
-        }
-    },
     "rookieNorthHeadLegs": {
         "location": {
             "trader": "Rookie Elite B",
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -15492,7 +13540,7 @@
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -15573,7 +13621,7 @@
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -15664,98 +13712,13 @@
             }
         }
     },
-    "rookieKontorMeat1": {
-        "location": {
-            "trader": "Barbara Biquoue",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Raw Meat": {
-                "reward": [
-                    "item",
-                    "Raw Meat",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Metal Needles",
-                        2
-                    ],
-                    [
-                        "Tough Sand",
-                        5
-                    ],
-                    [
-                        "Sunset Dew",
-                        3
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Arid Lumber": {
-                "reward": [
-                    "item",
-                    "Arid Lumber",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Autumn Leaves",
-                        2
-                    ],
-                    [
-                        "Feather Leaf",
-                        3
-                    ],
-                    [
-                        "Pike Wood",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Winter Thorn": {
-                "reward": [
-                    "item",
-                    "Winter Thorn",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Autumn Leaves",
-                        6
-                    ],
-                    [
-                        "Bergen Ice",
-                        2
-                    ],
-                    [
-                        "Rusty Bits",
-                        3
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            }
-        }
-    },
     "rookieKontorMeat2": {
         "location": {
             "trader": "Barbara Biquoue",
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -15858,102 +13821,13 @@
             }
         }
     },
-    "rookieKontorFruitA1": {
-        "location": {
-            "trader": "Frou'ty",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Palmapple Seed": {
-                "reward": [
-                    "item",
-                    "Palmapple Seed",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Tough Sand",
-                        3
-                    ],
-                    [
-                        "Twilight Dew",
-                        1
-                    ],
-                    [
-                        "Season Apples",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Cactone Fruit": {
-                "reward": [
-                    "item",
-                    "Cactone Fruit",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Tough Sand",
-                        3
-                    ],
-                    [
-                        "Sunset Dew",
-                        1
-                    ],
-                    [
-                        "Ripe Apples",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Maroon Chestnut": {
-                "reward": [
-                    "item",
-                    "Maroon Chestnut",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Feather Leaf",
-                        5
-                    ],
-                    [
-                        "Vivid Water",
-                        3
-                    ],
-                    [
-                        "Purple Ore Lump",
-                        1
-                    ],
-                    [
-                        "Steel Comb",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            }
-        }
-    },
     "rookieKontorFruitA2": {
         "location": {
             "trader": "Frou'ty",
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -16064,74 +13938,13 @@
             }
         }
     },
-    "rookieKontorFruitB1": {
-        "location": {
-            "trader": "Peary Birnler",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Bear Cicada": {
-                "reward": [
-                    "item",
-                    "Bear Cicada",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Vivid Water",
-                        6
-                    ],
-                    [
-                        "Season Apples",
-                        3
-                    ],
-                    [
-                        "Bug Shell",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Wolf Cicada": {
-                "reward": [
-                    "item",
-                    "Wolf Cicada",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Vivid Water",
-                        6
-                    ],
-                    [
-                        "Ripe Apples",
-                        3
-                    ],
-                    [
-                        "Bug Shell",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            }
-        }
-    },
     "rookieKontorFruitB2": {
         "location": {
             "trader": "Peary Birnler",
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -16234,179 +14047,13 @@
             }
         }
     },
-    "rookieKontorBracer1": {
-        "location": {
-            "trader": "Bracer Trader",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Prickly Bracer": {
-                "reward": [
-                    "item",
-                    "Prickly Bracer",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Spice Set",
-                        3
-                    ],
-                    [
-                        "Refined Metal",
-                        2
-                    ],
-                    [
-                        "Blue Orb",
-                        2
-                    ],
-                    [
-                        "Solid Bubble",
-                        3
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Bright Bracer": {
-                "reward": [
-                    "item",
-                    "Bright Bracer",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Prickly Bracer",
-                        1
-                    ],
-                    [
-                        "Precious Metal",
-                        1
-                    ],
-                    [
-                        "Lucid Shard",
-                        3
-                    ],
-                    [
-                        "Magma Residue",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            }
-        }
-    },
-    "rookieKontorBracer2": {
-        "location": {
-            "trader": "Bracer Trader",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Prickly Bracer": {
-                "reward": [
-                    "item",
-                    "Prickly Bracer",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Spice Set",
-                        3
-                    ],
-                    [
-                        "Refined Metal",
-                        2
-                    ],
-                    [
-                        "Blue Orb",
-                        2
-                    ],
-                    [
-                        "Solid Bubble",
-                        3
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Bright Bracer": {
-                "reward": [
-                    "item",
-                    "Bright Bracer",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Prickly Bracer",
-                        1
-                    ],
-                    [
-                        "Precious Metal",
-                        1
-                    ],
-                    [
-                        "Lucid Shard",
-                        3
-                    ],
-                    [
-                        "Magma Residue",
-                        1
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            },
-            "Sparkling Bracer": {
-                "reward": [
-                    "item",
-                    "Sparkling Bracer",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Bright Bracer",
-                        1
-                    ],
-                    [
-                        "Precious Metal",
-                        3
-                    ],
-                    [
-                        "Sea Disc",
-                        3
-                    ],
-                    [
-                        "Samurai Shell",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 2
-                }
-            }
-        }
-    },
     "rookieKontorBracer3": {
         "location": {
             "trader": "Bracer Trader",
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -16525,82 +14172,13 @@
             }
         }
     },
-    "rookieKontorBags1": {
-        "location": {
-            "trader": "Milfa Baggins",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Tattered Satchel": {
-                "reward": [
-                    "item",
-                    "Tattered Satchel",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Veggie Set",
-                        11
-                    ],
-                    [
-                        "Fruit Set",
-                        11
-                    ],
-                    [
-                        "Spice Set",
-                        5
-                    ],
-                    [
-                        "Raw Meat",
-                        3
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            },
-            "Prism Pouch": {
-                "reward": [
-                    "item",
-                    "Prism Pouch",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Tattered Satchel",
-                        1
-                    ],
-                    [
-                        "Chef Sandwich",
-                        3
-                    ],
-                    [
-                        "Chili Dog",
-                        2
-                    ],
-                    [
-                        "Ginger Tom. Salad",
-                        2
-                    ]
-                ],
-                "location": {
-                    "index": 1
-                }
-            }
-        }
-    },
     "rookieKontorBags2": {
         "location": {
             "trader": "Milfa Baggins",
             "area": "Rookie Harbor"
         },
         "region": {
-            "open": "open2"
+            "open": "open8"
         },
         "condition": [],
         "metadata": {},
@@ -16793,47 +14371,6 @@
                     [
                         "Wolf Cicada",
                         5
-                    ]
-                ],
-                "location": {
-                    "index": 0
-                }
-            }
-        }
-    },
-    "rookieReset": {
-        "location": {
-            "trader": "Reset Monger",
-            "area": "Rookie Harbor"
-        },
-        "region": {
-            "open": "open2"
-        },
-        "condition": [],
-        "metadata": {},
-        "trades": {
-            "Circuit Override": {
-                "reward": [
-                    "item",
-                    "Circuit Override",
-                    1
-                ],
-                "condition": [
-                    [
-                        "Spice Set",
-                        10
-                    ],
-                    [
-                        "Precious Metal",
-                        5
-                    ],
-                    [
-                        "Stout Backplate",
-                        2
-                    ],
-                    [
-                        "Sharp Splitter",
-                        2
                     ]
                 ],
                 "location": {
