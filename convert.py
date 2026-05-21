@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import json
 
-BANNED = [
+BANNED = [ # all of these are listed in the order they appear in the database.json file
     "vermillionWeapon1_old",
     "testing",
     "defaultHeal",
@@ -20,15 +20,83 @@ BANNED = [
     "sapphireBuffs3", # some additional ridge traders planned but never used?
     "sapphireBuffs4", # they all have different consumables to sell, too
     "sapphireBuffs5", # shame, really.
+    "glitchTrader", # lunatic paws uwu (is quest + behind arena)
     "bakiMetal",
     "bakiBrewing_1",
     "bakiBrewingAuto",
     "basinBuffs3",
+    "papagangQuestTrade",
+    "villageFood",
+    "villageEquip1",
+    "turretDefTrader",
+    "rhombusEquipAntique2",
+    "rhombusBuffsSpecial",
+    "rhombusPostEquipArena1", # arena DLC traders
+    "rhombusPostEquipArena2", # 1 is weapons, 2 is other gear
+    "tremorTrader1", # this is technically a dupe, but is quest-related
+    "tremorTrader2", # DLC quest etc.
+    "rhombusDlcLoot1", # DLC trader for Azure before Ku'lero
+    "rookieHeal",
+    "rookieHeal2",
+    "rookieBuffs1", # all of these are the early versions of other traders
+    "rookieBuffs2",
+    "rookieBuffs3",
+    "rookieBuffs4",
+    "rookieSteaks1", # ms.teak quest
+    "rookieSteaks2",
+    "rookieNorthBuffs2", # more early versions
+    "rookieNorthBuffs3",
+    "rookieNorthBuffs4",
+    "rookieRiseMetal1", # this upgrade chain might be quest-gated, unsure
+    "rookieRiseMetal2",
+    "rookieFallMetal1",
+    "rookieFallMetal2",
+    "rookieKontorMeat1",
+    "rookieKontorFruitA1",
+    "rookieKontorFruitB1",
+    "rookieKontorBracer1",
+    "rookieKontorBracer2",
+    "rookieKontorBags1",
+    "rookieReset",
 ]
 
 ONLY_DLC_OFF = [
     "bakiBrewing_2",
 ]
+
+AREA_OVERRIDE = {
+    # pond slum pass
+    "basinEastShadyBuffs": "open11",
+    "basinEastExcalibro": "open11",
+    "basinEastDrill": "open11",
+    "basinEastRevolver": "open11",
+    "basinEastBanditScarf": "open11",
+    "basinEastStick": "open11",
+    # v'rda vil 
+    "villageMaterials": "open10.Right",
+    "villageSets": "open10.Right",
+    "villageMetals": "open10.Right",
+    # turret defense (in grove, apparently)
+    "turretDefTraderUpg": "open10.Grove",
+    "turretDefTrader2": "open10.Grove",
+    # north rookie traders
+    "rookieSetsFall": "open8",
+    "rookieNorthHeals": "open8",
+    "rookieNorthBuffs": "open8",
+    "rookieNorthBuffs2Ext": "open8",
+    "rookieNorthBuffs3Ext": "open8",
+    "rookieNorthBuffs4Ext": "open8",
+    "rookieRiseMetal3": "open8",
+    "rookieNorthWeaponTorso": "open8",
+    "rookieFallMetal3": "open8",
+    "rookieNorthHeadLegs": "open8",
+    "rookieLootFall1": "open8",
+    "rookieKontorMeat2": "open8",
+    "rookieKontorFruitA2": "open8",
+    "rookieKontorFruitB2": "open8",
+    "rookieKontorBracer3": "open8",
+    "rookieKontorBags2": "open8",
+}
 
 AREAS: dict[str, str] = {}
 ENEMIES: dict[str, str] = {}
@@ -192,6 +260,8 @@ class Trader:
             meta["dlc"] = True
         if self.internal in ONLY_DLC_OFF:
             meta["dlc"] = False
+        region = REGIONS_MAP.get(self.area, self.area)
+        region = AREA_OVERRIDE.get(self.internal, region)
         return {
             self.internal:
             {
@@ -200,7 +270,7 @@ class Trader:
                     "area": self.area,
                 },
                 "region": {
-                    "open": REGIONS_MAP.get(self.area, self.area),
+                    "open": region,
                 },
                 "condition": [], # this will likely need manual intervention
                 "metadata": meta,
